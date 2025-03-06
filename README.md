@@ -1,7 +1,7 @@
-- 👋 Hola, soy @cmoralopez
+- 👋 Hola, soy Christian Mora @cmoralopez
 - 👀 Estoy interesado en el Desarrollo de software y el aprendizaje de nuevas formas de creación e implementacion de software.
-- 🌱 Actualmente estoy aprendiendo C# y .Net, Python
-- 💞️ Estoy buscando colaborar con las personas que estan en el nivel inicial como yo, pero con ganas de aprender y superarse.
+- 🌱 Actualmente estoy aprendiendo y mejorando mis conocimientos en: C++, C#, .Net, Python, Java, JavaScript, HTML, CSS, PHP, SQL.
+- 💞️ Estoy interesado en colaborar con personas que tengan interés en el desarrollo de software, ya sea a nivel inicial o avanzado, para compartir conocimientos, consejos y trucos. La idea es aprender y crecer juntos, siempre con la motivación de superarnos.
 - 📫 Pueden comunicarse conmigo por medio de mi email: cmoralopez@gmail.com
 
 <!---
