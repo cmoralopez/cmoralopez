@@ -1,6 +1,6 @@
 - 👋 Hola, soy @cmoralopez
 - 👀 Estoy interesado en el Desarrollo de software y el aprendizaje de nuevas formas de creación e implementacion de software.
-- 🌱 Actualmente estoy aprendiendo C# y .Net
+- 🌱 Actualmente estoy aprendiendo C# y .Net, Python
 - 💞️ Estoy buscando colaborar con las personas que estan en el nivel inicial como yo, pero con ganas de aprender y superarse.
 - 📫 Pueden comunicarse conmigo por medio de mi email: cmoralopez@gmail.com
 
